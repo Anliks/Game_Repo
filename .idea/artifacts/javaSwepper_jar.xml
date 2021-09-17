@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javaSwepper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaSwepper_jar</output-path>
+    <root id="archive" name="javaSwepper.jar">
+      <element id="module-output" name="javaSwepper" />
+    </root>
+  </artifact>
+</component>
