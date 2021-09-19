@@ -1,6 +1,6 @@
 package sweeper;
 
-public enum GameState {
+ public enum GameState {
     PLAYED,
     BOMBED,
     WINNER;
